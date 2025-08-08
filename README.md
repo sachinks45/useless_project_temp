@@ -119,7 +119,7 @@ _A demonstration of the advanced voice input feature._
  ## 🔄 Workflow Diagram
 
 ![Workflow](work_flow.png)
-Application workflow: The user provides advice via text or voice. The browser's Web Speech API handles the voice-to-text transcription. The frontend sends the final text to the Flask backend, which queries the Google Gemini API with a detailed, sarcastic prompt. Gemini returns a structured JSON response containing the analysis, which is then displayed back to the user on the webpage.
+_Application workflow: The user provides advice via text or voice. The browser's Web Speech API handles the voice-to-text transcription. The frontend sends the final text to the Flask backend, which queries the Google Gemini API with a detailed, sarcastic prompt. Gemini returns a structured JSON response containing the analysis, which is then displayed back to the user on the webpage._
 
 🎥 Project Demo
 📹 [Add demo video link here]
