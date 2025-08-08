@@ -116,17 +116,10 @@ _The AI's sarcastic analysis and recommended action after processing the advice.
 _A demonstration of the advanced voice input feature._
 
 🔄 Workflow Diagram
-csharp
 
-[User speaks/types advice] 
-      ↓
-[Web Speech API → Text] 
-      ↓
-[Frontend → Flask API] 
-      ↓
-[Gemini API → Sarcastic JSON Response] 
-      ↓
-[Frontend displays witty comeback]
+![Workflow](work_flow.png)
+_Detailed workflow_
+
 🎥 Project Demo
 📹 [Add demo video link here]
 
