@@ -105,15 +105,20 @@ Open index.html in your browser.
 When prompted, allow microphone access to use voice input.
 
 📸 Screenshots
-Step	Screenshot
-1 – Main Interface	[Insert Screenshot]
-2 – AI Processing Ammavan Wisdom	[Insert Screenshot]
-3 – Sarcastic Output + Comeback	[Insert Screenshot]
+
+
+![Main Page](1st_image.jpg)
+_The main interface of the Ammavan Advice Authenticator._
+
+![Analysis Result](2nd_image.jpg)
+_The AI's sarcastic analysis and recommended action after processing the advice._
+
+![Voice Input Feature](3rd_image.jpg)
+_A demonstration of the advanced voice input feature._
 
 🔄 Workflow Diagram
 csharp
-Copy
-Edit
+
 [User speaks/types advice] 
       ↓
 [Web Speech API → Text] 
