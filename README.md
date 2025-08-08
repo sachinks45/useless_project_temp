@@ -104,7 +104,7 @@ python app.py
 Open index.html in your browser.
 When prompted, allow microphone access to use voice input.
 
-📸 Screenshots
+**📸 Screenshots**
 
 ![Main Page](1st_image.png)
 _The main interface of the Ammavan Advice Authenticator._
