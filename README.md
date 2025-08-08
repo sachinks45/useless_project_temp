@@ -111,10 +111,10 @@ When prompted, allow microphone access to use voice input.
 _The main interface of the Ammavan Advice Authenticator._
 
 ![Analysis Result](2nd_image.png)
-_The AI's sarcastic analysis and recommended action after processing the advice._
+_A demonstration of the input feature._
 
 ![Voice Input Feature](3rd_image.png)
-_A demonstration of the advanced voice input feature._
+_The AI's sarcastic analysis and recommended action after processing the advice._
 
  ## 🔄 Workflow Diagram
 
