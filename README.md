@@ -6,7 +6,7 @@
 
 ## 📌 Basic Details
 
-**Team Name:** Team Epoch Fails🍌🍵
+**Team Name:** Team Epoch Fails
 
 **Team Members:**
 - **Team Lead:** Sachin K S – *COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY*
@@ -97,8 +97,7 @@ GEMINI_API_KEY=YOUR_API_KEY_HERE
 ```
 5️⃣ Run the backend
 ```bash
-Copy
-Edit
+
 python app.py
 ```
 6️⃣ Open the frontend
