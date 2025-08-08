@@ -116,10 +116,10 @@ _The AI's sarcastic analysis and recommended action after processing the advice.
 ![Voice Input Feature](3rd_image.png)
 _A demonstration of the advanced voice input feature._
 
-🔄 Workflow Diagram
+ ## 🔄 Workflow Diagram
 
 ![Workflow](work_flow.png)
-_Detailed workflow_
+Application workflow: The user provides advice via text or voice. The browser's Web Speech API handles the voice-to-text transcription. The frontend sends the final text to the Flask backend, which queries the Google Gemini API with a detailed, sarcastic prompt. Gemini returns a structured JSON response containing the analysis, which is then displayed back to the user on the webpage.
 
 🎥 Project Demo
 📹 [Add demo video link here]
