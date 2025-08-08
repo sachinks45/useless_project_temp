@@ -121,15 +121,22 @@ _A demonstration of the advanced voice input feature._
 ![Workflow](work_flow.png)
 _Application workflow: The user provides advice via text or voice. The browser's Web Speech API handles the voice-to-text transcription. The frontend sends the final text to the Flask backend, which queries the Google Gemini API with a detailed, sarcastic prompt. Gemini returns a structured JSON response containing the analysis, which is then displayed back to the user on the webpage._
 
-🎥 Project Demo
-📹 [Add demo video link here]
+## 🎥 Project Demo
 
-👨‍💻 Team Contributions
+**Video**
+
+[![Watch the Demo Video](demo_thumbnail.png)](https://youtu.be/uMU1LRy1vvY)
+
+_Click the thumbnail above to watch a full walkthrough of the application, demonstrating both text and voice input and the AI's sarcastic, real-time analysis._
+
+## 👨‍💻 Team Contributions
+
 Rohith R: AI Prompt Engineering, Voice Interface Integration
 
 Sachin: UI/UX Design, Front-End
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
+
 This project is purely for fun.
 No Ammavans were emotionally harmed in the making of this app. 😄
 
